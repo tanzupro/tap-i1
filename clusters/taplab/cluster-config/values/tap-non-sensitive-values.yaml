@@ -2,7 +2,7 @@ tap_install:
   values:
     excluded_packages: []
     shared:
-      ingress_domain: tap-i1
+      ingress_domain: tap-i1.tanzu.pro
       ingress_issuer: ""
     ceip_policy_disclosed: true
     profile: full
