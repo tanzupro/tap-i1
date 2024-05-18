@@ -1,0 +1,6 @@
+tap_install:
+  package_repository:
+    oci_repository: harbor.harborlab.fynesy.com/tanzu-packages/tap-packages
+  version:
+    package_repo_bundle_tag: 1.9.1
+    package_version: 1.9.1
